@@ -1,3 +1,3 @@
-[submodule "inference_engine/backends/LightX2V"]
-	path = inference_engine/backends/LightX2V
+[submodule "inference/backends/LightX2V"]
+	path = inference/backends/LightX2V
 	url = https://github.com/ModelTC/LightX2V.git
